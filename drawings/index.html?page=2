@@ -1,0 +1,336 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>
+
+                Drawings
+
+
+
+                    - Craig fyfe
+
+
+        </title>
+        <meta name="description" content="" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="shortcut icon" type="image/png" href="../static/favicon.e6abbc1a02f2.ico"/>
+        <!-- jQuery library -->
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+        <link rel="stylesheet" type="text/css" href="../static/css/main.8ec9a3700344.css">
+
+
+
+    </head>
+
+    <body class="">
+
+        <div class="header">
+            <div class="container">
+                <div class="row">
+                        <div class="column col-8 nav-wrapper">
+                                <nav class="clearfix">
+
+<a class="close-nav" href="index.html?page=2#">CLOSE</a>
+<ul class="navigation primary">
+    <li>
+        <a href="../index.html" title="home">Home</a>
+    </li>
+
+        <li class="active">
+            <a href="index.html">Drawings</a>
+
+        </li>
+
+        <li>
+            <a href="../about/index.html">About</a>
+
+        </li>
+
+        <li>
+            <a href="../paintings/index.html">Paintings</a>
+
+        </li>
+
+        <li>
+            <a href="../photography/index.html">Photography</a>
+
+        </li>
+
+        <li>
+            <a href="../sculpture/index.html">Sculpture</a>
+
+        </li>
+
+        <li>
+            <a href="../stories/index.html">Stories</a>
+
+        </li>
+
+        <li>
+            <a href="../postcards/index.html">Post Cards</a>
+
+        </li>
+
+</ul>
+
+                                </nav>
+                        </div>
+                    <div class="column col-4 header-right">
+                        <div class="row">
+                        <div class="col-8 social-links">
+                            <a class="fb social-link" href="https://www.facebook.com/craigfyfeart" target="_blank"></a>
+                            <a class="instagram social-link" href="https://www.instagram.com/craig_fyfe/" target="_blank"></a>
+                            <a class="twitter social-link" href="https://twitter.com/craig_fyfe_art" target="_blank"></a>
+                        </div>
+                            <a class="toggle-nav" href="index.html?page=2#">MENU</a>
+                            <div class="col-4 brand-wrapper">
+                            <a href="../index.html" class="branding" title="home">Craig Fyfe</a>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container main">
+
+    <h1>Drawings</h1>
+    <div class="intro"><div class="rich-text"></div></div>
+
+    <div class="masonry-grid">
+
+        <div class="masonry-grid-item">
+            <a href="smoking-two/index.html">
+                <img alt="Smoking for two" class="img-fluid" height="623" src="../../craigfyfe/images/living_to_the_max_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="smoking-two/index.html">
+                <h3>Smoking for two</h3>
+            </a>
+            <p>Some memories from a sketchbook drawn from real life situations. A woman, with two cigarettes in one hand, a puppy in the other and a small child in tow. Living life to the max!</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="plenty-more-fish-sea-8/index.html">
+                <img alt="Plenty More fish in the Sea #8" class="img-fluid" height="256" src="../../craigfyfe/images/plenty_more_fish_in_the_sea_8_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="plenty-more-fish-sea-8/index.html">
+                <h3>Plenty More fish in the Sea #8</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="love-heart/index.html">
+                <img alt="loveheart_0.jpg" class="img-fluid" height="526" src="../../craigfyfe/images/loveheart_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="love-heart/index.html">
+                <h3>Love Heart</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="plenty-more-fish-sea-7/index.html">
+                <img alt="Plenty more Fish in the sea #7" class="img-fluid" height="300" src="../../craigfyfe/images/Plenty_more_fish_in_the_sea__7_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="plenty-more-fish-sea-7/index.html">
+                <h3>Plenty more Fish in the sea #7</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="plenty-more-fish-sea-2/index.html">
+                <img alt="Plenty More Fish in the Sea #2" class="img-fluid" height="300" src="../../craigfyfe/images/IMG_3671.JPG_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="plenty-more-fish-sea-2/index.html">
+                <h3>Plenty More Fish in the Sea #2</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="plenty-more-fish-sea-1/index.html">
+                <img alt="Plenty More Fish in the Sea #1" class="img-fluid" height="299" src="../../craigfyfe/images/plenty_more_fish_inthe_sea_1_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="plenty-more-fish-sea-1/index.html">
+                <h3>Plenty More Fish in the Sea #1</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="got-your-goat/index.html">
+                <img alt="Got your Goat" class="img-fluid" height="600" src="../../craigfyfe/images/Goat.max-400x800.jpg" width="400">
+            </a>
+            <a href="got-your-goat/index.html">
+                <h3>Got your Goat</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="holy-cow/index.html">
+                <img alt="holycow" class="img-fluid" height="603" src="../../craigfyfe/images/holycow_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="holy-cow/index.html">
+                <h3>Holy cow!</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="fun-flags/index.html">
+                <img alt="Flag" class="img-fluid" height="250" src="../../craigfyfe/images/84.max-400x800.jpg" width="400">
+            </a>
+            <a href="fun-flags/index.html">
+                <h3>Fun with flags</h3>
+            </a>
+            <p>Flags of the World – A study in stereotypes and patriotism.</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="bird-cage/index.html">
+                <img alt="Bird Cage" class="img-fluid" height="576" src="../../craigfyfe/images/birdcage_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="bird-cage/index.html">
+                <h3>Bird cage</h3>
+            </a>
+            <p>Part of an ongoing project named &#39;Punch Line&#39;</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="birds-feather-flock-together/index.html">
+                <img alt="Birds of a feather, flock together" class="img-fluid" height="575" src="../../craigfyfe/images/birds_of_a_feather_flocktogether_1.max-400x800.jpg" width="400">
+            </a>
+            <a href="birds-feather-flock-together/index.html">
+                <h3>Birds of a feather, flock together</h3>
+            </a>
+            <p>Fine ink Drawing,</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="random-question/index.html">
+                <img alt="rq" class="img-fluid" height="480" src="../../craigfyfe/images/eyeball_beans.max-400x800.jpg" width="313">
+            </a>
+            <a href="random-question/index.html">
+                <h3>Random Question</h3>
+            </a>
+            <p>During a deep conversation, a friend proposes a ‘random question’, then continues to ask a question entirely related to the subject at hand.</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="hairy-fish/index.html">
+                <img alt="hf" class="img-fluid" height="257" src="../../craigfyfe/images/hairyfish.max-400x800.jpg" width="400">
+            </a>
+            <a href="hairy-fish/index.html">
+                <h3>Hairy Fish</h3>
+            </a>
+            <p>Fish, to me, are the indigenous aliens of our planet, living in the same space but a completely different environment, cold, scaly, without</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="everyones-it-3/index.html">
+                <img alt="Everyones at it #3" class="img-fluid" height="265" src="../../craigfyfe/images/everyones_at_it_poop_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="everyones-it-3/index.html">
+                <h3>Everyones at it #3</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="how-can-i-pretend-art/index.html">
+                <img alt="abo" class="img-fluid" height="561" src="../../craigfyfe/images/abo_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="how-can-i-pretend-art/index.html">
+                <h3>How Can I Pretend This Is Art</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="photo-booth-photoshoot-sketch/index.html">
+                <img alt="Photo booth photoshoot (sketch)" class="img-fluid" height="565" src="../../craigfyfe/images/photo_booth_drawing_003.max-400x800.jpg" width="400">
+            </a>
+            <a href="photo-booth-photoshoot-sketch/index.html">
+                <h3>Photo booth photoshoot (sketch)</h3>
+            </a>
+            <p>Ballpoint sketch of &#39;photo booth photoshoot Nr1&#39;</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="ass-colours/index.html">
+                <img alt="Ass Colours" class="img-fluid" height="565" src="../../craigfyfe/images/filename-1_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="ass-colours/index.html">
+                <h3>Ass Colours</h3>
+            </a>
+            <p>Found art</p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+        <div class="masonry-grid-item">
+            <a href="tight-drawting/index.html">
+                <img alt="tight" class="img-fluid" height="536" src="../../craigfyfe/images/tight_0.max-400x800.jpg" width="400">
+            </a>
+            <a href="tight-drawting/index.html">
+                <h3>Tight Drawting</h3>
+            </a>
+            <p></p>
+            <p class="tag"><a href="index.html">Drawings</a></p>
+        </div>
+
+    </div>
+
+
+
+<div class="pagination">
+
+        <a href="index.html?page=1" class="prev" title="previous">prev</a>
+
+
+</div>
+
+
+
+
+        </div>
+        <footer class="footer">
+        </footer>
+
+
+        <script type="text/javascript" src="../static/js/all.21f8a47cecc6.js"></script>
+
+
+
+
+
+    </body>
+</html>
